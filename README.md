@@ -8,4 +8,5 @@ Fall 2018, COMS 4995.06 Applied Deep Learning Final Project
 3. Use 'yolo_pipeline.ipynb' to translate raw predictions to YOLO parameters, visualize predicted bounding boxes, and convert back to video;
 
 - Pre-trained weights is 127.1MB, exceeds github file limits(25MB) and is not included in this repo.
-- Collaborator: Sihan Huang(sh3453), Yilin Sun(ys2780), Yuqi Zhang(yz3305)
+## Collaborator
+Sihan Huang(sh3453), Yilin Sun(ys2780), Yuqi Zhang(yz3305)
