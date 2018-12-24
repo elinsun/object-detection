@@ -9,4 +9,4 @@ Fall 2018, COMS 4995.06 Applied Deep Learning Final Project
 
 - Pre-trained weights is 127.1MB, exceeds github file limits(25MB) and is not included in this repo.
 ## Collaborator
-Sihan Huang(sh3453), Yilin Sun(ys2780), Yuqi Zhang(yz3305)
+Sihan Huang(sh3453), Yuqi Zhang(yz3305), Yilin Sun(ys2780)
